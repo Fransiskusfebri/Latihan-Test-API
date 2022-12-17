@@ -1,0 +1,15 @@
+{
+  "name": "pm-api",
+  "version": "1.0.0",
+  "description": "Belajar APIAutomationTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "icikiwir"
+  },
+  "author": "FransiskusFebri",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}
